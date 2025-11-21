@@ -1,0 +1,5 @@
+saya menggunakan beberapa bantuan AI untuk pengerjaan ini
+
+letak penggunaan dan tujuan
+-Membantu styling pada bagian testimonial saat membuat border card karena sudah mencoba berulang ulang tetap tidak jadi
+-Membantu pembuatan javascript dikarenakan masih belajar menggunakan bahasa javascript
